@@ -1,0 +1,8 @@
+{
+  "mobile": {
+    "platformName": "Android",
+    "deviceName": "emulator-5554",
+    "appPackage": "io.appium.android.apis",
+    "appActivity": ".ApiDemos"
+  }
+}

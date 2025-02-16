@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite">
+    <test name="Web Tests">
+        <classes>
+            <class name="org.gravity.automation_framework.web.WebLoginTest"/>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="org.gravity.automation_framework.utilities.ListenerClass"/>
+    </listeners>
+</suite>
